@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 50px;
+  font-size: 20px;
+  color: #222;
+}
+
+.btn:hover {
+    background-color: cornflowerblue;
+    color : #fff;
+}
+
+.btn {
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 12px 20px;
+}
+
+.btn.primary {
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
+  color: #fff;
+}
+
+.primary:hover {
+    background-color: #fff;
+    color : cornflowerblue;
+}
+
+.btn.danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
+
+.danger:hover {
+    background-color: #fff;
+    color : cornflowerblue;
+}
+
+.btn.success {
+  background-color: rgb(153, 189, 99);
+  border-color: rgb(153, 189, 99);
+  color: #fff;
+}
+
+.success:hover {
+    background-color: #fff;
+    color : cornflowerblue;
+}
+
+.btn.info {
+  background-color: rgb(47, 138, 138);
+  border-color: rgb(47, 138, 138);
+  color: #fff;
+}
+
+.info:hover {
+    background-color: #fff;
+    color : cornflowerblue;
+}
+
+.btn.warning {
+  background-color: rgb(255, 217, 0);
+  border-color: rgb(255, 217, 0);
+  color: #fff;
+}
+
+.warning:hover {
+    background-color: #fff;
+    color : cornflowerblue;
+}
