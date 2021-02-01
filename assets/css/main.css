@@ -38,7 +38,7 @@ body {
 
 .danger:hover {
     background-color: #fff;
-    color : cornflowerblue;
+    color  : #dc3545;
 }
 
 .btn.success {
@@ -49,7 +49,7 @@ body {
 
 .success:hover {
     background-color: #fff;
-    color : cornflowerblue;
+    color : rgb(153, 189, 99);
 }
 
 .btn.info {
@@ -60,7 +60,7 @@ body {
 
 .info:hover {
     background-color: #fff;
-    color : cornflowerblue;
+    color : rgb(47, 138, 138);
 }
 
 .btn.warning {
@@ -71,5 +71,5 @@ body {
 
 .warning:hover {
     background-color: #fff;
-    color : cornflowerblue;
+    color : rgb(255, 217, 0);
 }
